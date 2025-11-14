@@ -38,3 +38,26 @@ Sistema web para gestionar contraseñas de forma segura. Permite a los usuarios 
 npm install
 3. Ejecutar:
 npm run dev (disponible en http://localhost:3000)
+
+
+
+## Probar la api
+### verificar estado del sv
+GET http://localhost:3000/api/estado, probamos en postman y respoonde:
+{
+    "status": "andando",
+    "message": "todo piola",
+    "timestamp": "2025-11-14T01:56:20.336Z"
+}
+
+### registrar nuevo user
+GET http://localhost:3000/api/estado, probamos en postman y respoonde:
+{
+    "status": "andando",
+    "message": "todo piola",
+    "timestamp": "2025-11-14T01:56:20.336Z"
+}
+
+
+<img width="965" height="616" alt="image" src="https://github.com/user-attachments/assets/0d29cdac-42d6-46a7-b509-4b0495123527" />
+
