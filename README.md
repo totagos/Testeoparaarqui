@@ -15,7 +15,7 @@ API REST para guardar y administrar contraseñas de servicios como redes sociale
 ### Pasos
 
 1. **Clonar el repositorio**
-```bash
+bash
 git clone https://github.com/totagos/Arquitectura-Web.git
 cd Arquitectura-Web
 Instalar dependencias
